@@ -1,0 +1,24 @@
+{
+    "players":[
+        {
+            "name": "Matthews",
+            "position": "Center"
+        },
+        {
+            "name": "Muzzin",
+            "position": "Defence"
+        },    
+        {
+            "name": "Tavares",
+            "position": "Center"
+        },
+        {
+            "name": "Marner",
+            "position": "Right Wing"
+        },
+        {
+            "name": "Anderson",
+            "position": "Goalie"
+        }
+    ]
+}
